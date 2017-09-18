@@ -4,7 +4,9 @@ Tecnovision LED Video Wall Vulnerabilities and Exploits. From SQLi to full root 
 Tecnovision is a manufacturer of LED Video Walls used in arenas (For example, Twickenham Stadium), concert halls, shopping malls, as roadsigns and much much more. DlxSpot Player 4 is the software controller for some of these LED walls. These are the unpatched exploits and are 0days (2017-09-18) that I have discovered that led (ha!) from SQLi to full root access. (Please note that the hardcoded password was the last finding, they are just sorted in this list by the CVE numbers assigned to them)
 Thank you for taking the time to read this. If you've got any questions, ping me on twitter @unknownpwn
 
-I'd like to dedicate this work to my friend and brother-in-law who recently passed away, Marcus Åström.
+I'd like to dedicate this work to my friend and brother-in-law who recently passed away, **Marcus Åström.**
+May you rest in peace. 1994-04-05 ✞ 2017-09-11
+
 ##### TIMELINE:
 
 + 2017-05-14 - Discovery of vulnerabilities.
